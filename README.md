@@ -1,7 +1,7 @@
-# Fire Emblem Tier List Maker
+# Smash Ultimate Tier List Maker
 
-well this was forked from https://github.com/quetzle/smash-apps
+forked from https://github.com/fe-tier-list-maker/fe-tier-list-maker.github.io
 
-This is a tier list maker for every character in the Fire Emblem series. Images used are property of Nintendo/Intelligent Systems. 
+This is a tier list maker for every basically everything in Smash Ultimate, and a lot of things that aren't. Images used are property of Nintendo/Sora Ltd. 
 
-Please review the [contribution guide](https://github.com/fe-tier-list-maker/fe-tier-list-maker.github.io/blob/master/CONTRIBUTING.md) if you want to add/modify portraits or functionality.
+I like the [contribution guide](https://github.com/fe-tier-list-maker/fe-tier-list-maker.github.io/blob/master/CONTRIBUTING.md) from the one I forked from so check it out if you want to add/modify portraits or functionality.
