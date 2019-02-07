@@ -1,0 +1,4 @@
+add Piranha Plant alt colors
+add Piranha Plant icons
+fix stages
+make fighter tab default
