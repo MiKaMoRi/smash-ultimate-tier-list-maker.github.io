@@ -1,3 +1,2 @@
 get Piranha Plant alt colors with viewable thumbnails (low priority)
-replace stage jpgs
 fix icon
