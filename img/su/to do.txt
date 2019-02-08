@@ -1,2 +1,0 @@
-get Piranha Plant alt colors with viewable thumbnails (low priority)
-fix icon
