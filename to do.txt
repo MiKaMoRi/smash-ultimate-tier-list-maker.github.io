@@ -1,2 +1,4 @@
 get Piranha Plant alt colors with viewable thumbnails (low priority)
 Master Core forms
+make everything transparent
+stage width
